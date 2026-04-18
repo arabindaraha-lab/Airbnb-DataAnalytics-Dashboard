@@ -163,7 +163,7 @@ This project analyzes business performance for Airbnb using interactive dashboar
 
 2. **Diversify to all Types of Hosts**
    - Give discount to commercial hosts for their growth 
-- Reduces dependency on individual hosts only
+   - Reduces dependency on individual hosts only
 
 3. **Optimize Pricing Strategy**
    - Use AI-based dynamic pricing
