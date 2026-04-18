@@ -188,6 +188,6 @@ This project analyzes business performance for Airbnb using interactive dashboar
 
 ## Conclusion  
 
-Airbnb shows strong growth and demand driven by entire homes and key European markets, but faces challenges like seasonality, price sensitivity, and underperforming listings. Focusing on dynamic pricing, demand optimization, and balanced supply growth will be key to sustaining long-term success.
+Airbnb shows strong growth and demand driven by entire homes and key European markets, but faces challenges like seasonality, price sensitivity, and underperforming listings. Focusing on dynamic pricing, demand optimization, and balanced supply growth will be key for sustaining long-term success.
 
 ---
