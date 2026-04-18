@@ -16,6 +16,7 @@ This project analyzes business performance for Airbnb using interactive dashboar
 - **Total Records:** `50,000` 
 - **Primary Keys:** `id`, `host_id`, `city`, `room_type`  
 - **Source of Data:** [airbnb_top_cities.csv](https://www.kaggle.com/datasets/darkmatternet/airbnb-listings-nyc-london-paris-tokyo-and-more/data)
+- **Dashboard:** [AirbnbDashboard](https://datastudio.google.com/reporting/69e5b1ce-a168-40f1-ab65-1c0a01be499b)
 
 ---
 
