@@ -1,6 +1,4 @@
-# Airbnb Listings & Business Analysis  
-
----
+# <h1 align="center">Airbnb Listings & Business Analysis</h1> 
 
 ## Project Overview  
 
