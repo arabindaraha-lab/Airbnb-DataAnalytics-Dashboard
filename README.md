@@ -24,7 +24,7 @@ This project analyzes business performance for Airbnb using interactive dashboar
 
 - Microsoft Excel  
 - Google Sheets  
-- Looker Studio  
+- Looker Studio/Data Studio  
 
 ---
 
