@@ -1,5 +1,7 @@
 # <h1 align="center">Airbnb Listings & Business Analysis</h1> 
 
+---
+
 ## Project Overview  
 
 This project analyzes business performance for Airbnb using interactive dashboards, focusing on revenue trends, pricing strategies, host distribution, and demand patterns. The goal is to identify key drivers of growth, uncover underperforming areas, and provide data-driven recommendations to optimize pricing, improve listing performance, and support strategic decision-making.
@@ -74,7 +76,7 @@ This project analyzes business performance for Airbnb using interactive dashboar
 
 ![Analytical Dashboard](AirbnbDashboard1.png)
 
-### Key Insights  
+### A. Key Insights  
 
 1. **Overall Analysing Scale**  
    - 50,000 listings and 29,251 hosts show strong supply base.  
@@ -106,7 +108,7 @@ This project analyzes business performance for Airbnb using interactive dashboar
 
 
 
-### Analytical Recommendations  
+### B. Analytical Recommendations  
 
 1. **Improve Low-Demand Listings**  
    - Provide better pricing 
@@ -128,7 +130,7 @@ This project analyzes business performance for Airbnb using interactive dashboar
 
 ![Business Dashboard](AirbnbDashboard2.png)
 
-### Key Insights  
+### A. Key Insights  
 
 1. **Monthly Revenue Trend**
    - Revenue peaks in Nov–Mar (₹9.98B) and drops to ₹1.1B in Apr–May. 
@@ -154,7 +156,7 @@ This project analyzes business performance for Airbnb using interactive dashboar
    - Airbnb is primarily an “entire home rental” platform, not shared economy anymore. 
 
 
-### Business Recommendations  
+### B. Business Recommendations  
 
 1. **Reduce Seasonality Risk**
    - Introduce Off-season offers
